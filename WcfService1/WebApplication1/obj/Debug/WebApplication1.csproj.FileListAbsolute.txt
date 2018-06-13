@@ -1,0 +1,6 @@
+C:\Users\christopher.s\Documents\MyGitRepo_learning\Webservices_learning\WcfService1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\christopher.s\Documents\MyGitRepo_learning\Webservices_learning\WcfService1\WebApplication1\bin\WebApplication1.dll
+C:\Users\christopher.s\Documents\MyGitRepo_learning\Webservices_learning\WcfService1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\christopher.s\Documents\MyGitRepo_learning\Webservices_learning\WcfService1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\christopher.s\Documents\MyGitRepo_learning\Webservices_learning\WcfService1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\christopher.s\Documents\MyGitRepo_learning\Webservices_learning\WcfService1\WebApplication1\obj\Debug\WebApplication1.pdb
